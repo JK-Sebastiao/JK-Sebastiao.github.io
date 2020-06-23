@@ -1,1 +1,1 @@
-# JK-Sebastiao.github.io
+# MySocialNetwork docs
